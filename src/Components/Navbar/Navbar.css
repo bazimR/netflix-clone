@@ -28,10 +28,12 @@
     display: flex;
     list-style-type: none;
     justify-content: space-evenly;
+    cursor: pointer;
 }
 
 .avatar {
     position: fixed;
     right: 20px;
     width: 30px;
+    cursor: pointer;
 }
